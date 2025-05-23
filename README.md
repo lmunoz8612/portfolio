@@ -1,17 +1,25 @@
 # 👨‍💻 Portafolio de Luis Vicente Muñoz Fonseca
 
-Hola, soy desarrollador Full Stack con experiencia en PHP, React, Node.js, y más.
+Soy desarrollador Full Stack con sólida experiencia en frontend y backend, especializado en crear soluciones robustas y seguras. Domino tecnologías como React, Python (Django), PHP, NestJS, Javascript y AWS.
 
 ## 🧩 Proyectos Destacados
 
-### [Sistema de Inventario](https://github.com/tu-usuario/inventario)
-API REST en Python para la gestión de inventario en tiendas.
+### [Sistema de Inventario](https://github.com/lmunoz8612/tm-consulting)
+API REST en Python (DJango) para la gestión de inventario en tiendas.
 
-### [Login seguro con PHP y React](https://github.com/tu-usuario/login-react-php)
+### [Login seguro con PHP y React]
+php(https://github.com/tu-usuario/login-react-php)
+react(https://github.com/lmunoz8612/rh-api)
 Sistema de autenticación usando tokens y cookies httpOnly.
 
-### [Organigrama en React](https://github.com/tu-usuario/organigrama-react)
-Visualización de estructuras jerárquicas con React.
+Tecnologías utilizadas:
+- Lenguajes y frameworks: JavaScript, PHP 8.2, ReactJS, NodeJS 
+- Cloud: Microsoft Azure (App Services, Blob Storage, Virtual Machines, Azure Functions – TimerTrigger, KeyVault, Entra 
+ID) 
+- Base de datos: SQL Server (relacional) 
+- Otros: WebSockets, APIs REST, control de versiones con Git 
+- Metodología de trabajo: Atlassian Jira, metodología SCRUM 
+- Diseño: Desarrollo web responsivo y optimizado para múltiples dispositivos
 
 ---
 
