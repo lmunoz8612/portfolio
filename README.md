@@ -7,7 +7,7 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 ### [Sistema de Inventario](https://github.com/lmunoz8612/tm-consulting)
 API REST en Python (DJango) para la gestión de inventario en tiendas.
 
-### Login seguro con [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
+### Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
 Sistema de autenticación usando tokens y cookies httpOnly.
 
 Tecnologías utilizadas:
