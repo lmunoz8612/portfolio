@@ -17,6 +17,15 @@ ID)
 - Base de datos: SQL Server (relacional) 
 - Diseño: Desarrollo web responsivo y optimizado para múltiples dispositivos
 
+### Participación en el desarrollo de [Talisis.com](https://www.talisis.com)
+Plataforma educativa Talisis.com
+
+Tecnologías utilizadas:
+- Lenguajes y frameworks: JavaScript, React, NodeJS
+- Cloud y servicios AWS: AWS Lambda, Step Functions, API Gateway, DynamoDB, RDS (SQL Server), S3, SNS, SES, EC2, CodeCommit, AWS SDK, CloudWatch
+- Otros: WebSockets, APIs REST, Git, LRS (Learning Record Storage), Sentry (monitoreo de aplicaciones)</li>
+-Diseño: Desarrollo web responsivo y adaptable a múltiples dispositivos
+
 ---
 
 📫 Puedes contactarme en: [lvmunozf@outlook.com]  
