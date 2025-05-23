@@ -8,9 +8,9 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 API REST en Python (DJango) para la gestión de inventario en tiendas.
 
 ### [Login seguro con PHP y React]
-#### [php](https://github.com/tu-usuario/login-react-php)
-#### [react](https://github.com/lmunoz8612/rh-api)
 Sistema de autenticación usando tokens y cookies httpOnly.
+#### [Repositorio PHP](https://github.com/tu-usuario/login-react-php)
+#### [Repositorio React JS](https://github.com/lmunoz8612/rh-api)
 
 Tecnologías utilizadas:
 - Lenguajes y frameworks: JavaScript, PHP 8.2, ReactJS, NodeJS 
