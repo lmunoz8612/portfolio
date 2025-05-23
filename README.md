@@ -8,8 +8,8 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 API REST en Python (DJango) para la gestión de inventario en tiendas.
 
 ### [Login seguro con PHP y React]
-php(https://github.com/tu-usuario/login-react-php)
-react(https://github.com/lmunoz8612/rh-api)
+#### [php](https://github.com/tu-usuario/login-react-php)
+#### [react](https://github.com/lmunoz8612/rh-api)
 Sistema de autenticación usando tokens y cookies httpOnly.
 
 Tecnologías utilizadas:
@@ -17,8 +17,6 @@ Tecnologías utilizadas:
 - Cloud: Microsoft Azure (App Services, Blob Storage, Virtual Machines, Azure Functions – TimerTrigger, KeyVault, Entra 
 ID) 
 - Base de datos: SQL Server (relacional) 
-- Otros: WebSockets, APIs REST, control de versiones con Git 
-- Metodología de trabajo: Atlassian Jira, metodología SCRUM 
 - Diseño: Desarrollo web responsivo y optimizado para múltiples dispositivos
 
 ---
