@@ -6,7 +6,7 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 
 ## 🧩 Proyectos Destacados
 
-### 🚀 [Sistema de Inventario](https://github.com/lmunoz8612/tm-consulting)
+### 🚀 [Sistema de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
 API REST en Python (Django / MongoDB / OpenAPI Swagger) para la gestión de inventario en tiendas.
 
 ---
