@@ -6,17 +6,17 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 
 ## 🧩 Proyectos Destacados
 
-### 🛒 [API de Gestión de Ventas](https://github.com/lmunoz8612/nestjs-order-management-api)
+### 🧾 + 🛒 + 👤 [API de Gestión de Ventas](https://github.com/lmunoz8612/nestjs-order-management-api)
 API REST en NestJS (Typescript / TypeORM / MongoDB / MySQL/ OpenAPI Swagger) para la gestión de venta de productos.
 
 ---
 
-### 🚀 [API de Gestion de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
+### 📦🧾📊 [API de Gestion de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
 API REST en Python (Django / MongoDB / OpenAPI Swagger) para la gestión de inventario en tiendas.
 
 ---
 
-### 🔐 Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
+### 👥🧑‍💼📋 Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
 Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de procesos de Recursos Humanos, como generación de vacantes, comunicados, eventos, organigrama, etc.
 
 **Tecnologías utilizadas:**
