@@ -6,7 +6,12 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 
 ## 🧩 Proyectos Destacados
 
-### 🚀 [Sistema de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
+### 🚀 [API de Gestión de Ventas](https://github.com/lmunoz8612/py-inventory-management-api)
+API REST en NestJS (Typescript / TypeORM / MongoDB / MySQL/ OpenAPI Swagger) para la gestión de venta de productos.
+
+---
+
+### 🚀 [API de Gestion de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
 API REST en Python (Django / MongoDB / OpenAPI Swagger) para la gestión de inventario en tiendas.
 
 ---
