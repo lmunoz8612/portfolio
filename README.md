@@ -24,9 +24,9 @@ Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de proce
 - **Cloud:** Microsoft Azure (App Services, Blob Storage, Virtual Machines, Azure Functions – TimerTrigger, KeyVault, Entra ID)  
 - **Base de datos:** SQL Server (relacional)  
 - **Diseño:** Desarrollo web responsivo y optimizado para múltiples dispositivos
-URL: https://main.d285reo4b75oyd.amplifyapp.com/
-usuario: lvmunozf@outlook.com
-contraseña: password
+-- URL: https://main.d285reo4b75oyd.amplifyapp.com/
+-- usuario: lvmunozf@outlook.com
+-- contraseña: password
 
 ---
 
