@@ -17,7 +17,7 @@ API REST en Python (Django / MongoDB / OpenAPI Swagger) para la gestión de inve
 ---
 
 ### 👥🧑‍💼📋 Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
-Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de procesos de Recursos Humanos, como generación de vacantes, comunicados, eventos, organigrama, etc.
+Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de procesos de Recursos Humanos, como generación de vacantes, comunicados, eventos, organigrama, etcetera.
 
 **Tecnologías utilizadas:**
 - **Lenguajes y frameworks:** JavaScript, PHP 8.2, ReactJS, NodeJS  
