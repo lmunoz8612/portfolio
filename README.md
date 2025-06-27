@@ -30,7 +30,7 @@ Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de proce
 
 ---
 
-### 🎓 Participación en el desarrollo de [Talisis.com](https://www.talisis.com)
+### 🎒 + 🎓 + ✍️ Participación en el desarrollo de [Talisis.com](https://www.talisis.com)
 Plataforma educativa moderna y escalable.
 
 **Tecnologías utilizadas:**
