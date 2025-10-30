@@ -6,7 +6,7 @@ Soy desarrollador Full Stack con sólida experiencia en frontend y backend, espe
 
 ## 🧩 Proyectos Destacados
 
-### 🎒 + 🎓 + ✍️ [Participación en el desarrollo backend de inscripciones en Plataforma Educativa Online UNITEC](https://www.unitec.mx/)
+### 🎒 + 🎓 + ✍️ Participación en el desarrollo backend de inscripciones en Plataforma Educativa Online [UNITEC](https://www.unitec.mx/)
 **Tecnologías utilizadas:**
 - **Lenguajes y frameworks:** Typescript, NodeJS, expres.js
 - **Cloud y servicios GCP:** Cloud Function, Cloud Run, Firestore, BigQuery, Cloud Storage (Buckets), APIs & services
@@ -40,7 +40,7 @@ Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de proce
 
 ---
 
-### 🎒 + 🎓 + ✍️ Participación en el desarrollo de [Talisis.com](https://www.talisis.com)
+### 🎒 + 🎓 + ✍️ Participación en el desarrollo de Plataforma Educativa Online [Talisis.com](https://www.talisis.com)
 Plataforma educativa moderna y escalable.
 
 **Tecnologías utilizadas:**
