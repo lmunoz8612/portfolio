@@ -54,7 +54,7 @@ Plataforma educativa moderna y escalable.
 **Demo:**
 - **URL:** https://www.talisis.com/
 - **usuario:** kogodom659@burangir.com
-- **contraseña:** Kingdiamond2025*
+- **contraseña:** Talisis2025*
 
 ---
 
