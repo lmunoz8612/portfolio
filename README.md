@@ -1,6 +1,6 @@
 # 👨‍💻 Portafolio de Luis Vicente Muñoz Fonseca
 
-Soy desarrollador Full Stack con sólida experiencia en frontend y backend, especializado en crear soluciones robustas y seguras. Domino tecnologías como **React**, **Python (Django)**, **PHP**, **NestJS**, **JavaScript** y **AWS**.
+Soy desarrollador **Full Stack** con sólida experiencia en frontend y backend, especializado en el diseño e implementación de soluciones web robustas, escalables y seguras. Domino tecnologías como **React**, **Python (Django)**, **PHP**, **NestJS**, **Express.js**, **JavaScript**, así como herramientas y servicios en la nube como **AWS** y **Azure DevOps**.
 
 ---
 
