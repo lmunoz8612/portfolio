@@ -36,7 +36,7 @@ Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de proce
 - **Diseño:** Desarrollo web responsivo y optimizado para múltiples dispositivos
 
 **Demo:**
-- **URL:** https://main.d285reo4b75oyd.amplifyapp.com/
+- **URL:** https://rh-weld.vercel.app/login
 - **usuario:** lvmunozf@outlook.com
 - **contraseña:** password
 
