@@ -51,6 +51,11 @@ Plataforma educativa moderna y escalable.
 - **Otros:** WebSockets, APIs REST, Git, LRS (Learning Record Store), Sentry (monitoreo de aplicaciones)  
 - **Diseño:** Desarrollo web responsivo y adaptable a múltiples dispositivos
 
+**Demo:**
+- **URL:** https://www.talisis.com/
+- **usuario:** kogodom659@burangir.com
+- **contraseña:** Kingdiamond2025*
+
 ---
 
 ## 📬 Contacto
