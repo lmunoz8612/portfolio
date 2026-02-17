@@ -42,11 +42,12 @@
         fieldset {
             border-radius: 8px;
             font-size: 14px;
+            border: 1px solid #1976d2;
         }
 
         fieldset legend {
             font-size: 16px;
-            color: darkgray;
+            color: #333;
         }
 
         h2,
@@ -87,7 +88,7 @@
         }
 
         .icon {
-            font-size: 1rem;
+            font-size: 1.2rem;
         }
 
         .left {
@@ -106,6 +107,10 @@
             font-weight: normal;
         }
 
+        .textAlignCenter {
+            text-align: center;
+        }
+
         .title {
             display: inline-flex;
             align-items: center;
@@ -122,6 +127,38 @@
             border-radius: 50%;
             object-fit: cover;
         }
+
+        .mui-btn {
+            background-color: #1976d2;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            padding: 8px 22px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            letter-spacing: 0.02857em;
+            cursor: pointer;
+            box-shadow:
+                0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+                0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+                0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+            transition:
+                background-color 0.2s ease,
+                box-shadow 0.2s ease,
+                transform 0.1s ease;
+        }
+
+        .mui-btn:hover {
+            background-color: #1565c0;
+            box-shadow:
+                0px 5px 5px -3px rgba(0, 0, 0, 0.2),
+                0px 8px 10px 1px rgba(0, 0, 0, 0.14),
+                0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+        }
+
+        .mui-btn:active {
+            transform: scale(0.97);
+        }
     </style>
 </head>
 
@@ -129,11 +166,30 @@
 
     <section>
         <div class="title">
-            <h2 style="width: 95%;">Luis Vicente Muñoz Fonseca</h2>
+            <h2 style="width: 95%;">Hola, soy Luis Vicente Muñoz Fonseca<br />Software Developer</h2>
             <img src="https://lmunoz-files.s3.us-west-1.amazonaws.com/Luis+M..jpeg" class="avatar" />
         </div>
 
-        <fieldset>
+        <a href="https://lmunoz-files.s3.us-west-1.amazonaws.com/Luis-Munoz-Fonseca.pdf" target="_blank">
+            <button class="mui-btn"><i class="ri-file-pdf-2-line right"></i>Mi CV</button>
+        </a>
+
+        <div class="textAlignCenter mt-2">
+            <i class="ri-php-line fontSize2x right"></i>
+            <i class="ri-javascript-fill fontSize2x right"></i>
+            <i class="ri-nodejs-line fontSize2x right"></i>
+            <i class="ri-reactjs-line fontSize2x right"></i>
+            <i class="ri-database-2-line fontSize2x right"></i>
+            <i class="ri-microsoft-fill fontSize2x right"></i>
+            <i class="ri-github-line fontSize2x right"></i>
+            <i class="ri-amazon-line fontSize2x right"></i>
+            <i class="ri-html5-line fontSize2x right"></i>
+            <i class="ri-css3-line fontSize2x right"></i>
+            <i class="ri-google-line fontSize2x right"></i>
+            <i class="ri-firebase-fill fontSize2x"></i>
+        </div>
+
+        <fieldset class="mt-2">
             <legend>&nbsp;</i><i class="ri-info-card-line icon right"></i><b>Sobre mí</b>&nbsp;</legend>
             <p>Soy desarrollador <b>Full Stack</b> con sólida experiencia en frontend y backend, especializado en el
                 diseño e implementación de soluciones web robustas, escalables y seguras. Domino tecnologías como
@@ -141,24 +197,10 @@
                 así como herramientas y servicios en la nube como <b>AWS</b>, <b>Google Firebase</b> y <b>Azure
                     DevOps</b>.
             </p>
-            <p>
-                <i class="ri-php-line fontSize2x right"></i>
-                <i class="ri-javascript-fill fontSize2x right"></i>
-                <i class="ri-nodejs-line fontSize2x right"></i>
-                <i class="ri-reactjs-line fontSize2x right"></i>
-                <i class="ri-database-2-line fontSize2x right"></i>
-                <i class="ri-microsoft-fill fontSize2x right"></i>
-                <i class="ri-github-line fontSize2x right"></i>
-                <i class="ri-amazon-line fontSize2x right"></i>
-                <i class="ri-html5-line fontSize2x right"></i>
-                <i class="ri-css3-line fontSize2x right"></i>
-                <i class="ri-google-line fontSize2x right"></i>
-                <i class="ri-firebase-fill fontSize2x"></i>
-            </p>
         </fieldset>
 
         <fieldset class="mt-2">
-            <legend>&nbsp;<i class="ri-code-s-slash-line icon right"></i><b>Proyectos Destacados</b>&nbsp;</legend>
+            <legend>&nbsp;<i class="ri-computer-line icon right"></i><b>Proyectos Destacados</b>&nbsp;</legend>
             <!-- Northware -->
             <h3>
                 <i class="ri-graduation-cap-line right fw-normal"></i>Participación en el desarrollo backend de
@@ -189,7 +231,7 @@
 
                 <!-- Python -->
                 <h3>
-                    <i class="ri-store-3-line right fw-normal"></i>
+                    <i class="ri-store-3-line icon right fw-normal"></i>
                     <a href="https://github.com/lmunoz8612/py-inventory-management-api" target="_blank">API de Gestion
                         de Inventario</a>
                 </h3>
@@ -200,7 +242,7 @@
 
                 <!-- Vitti Logistics -->
                 <h3>
-                    <i class="ri-truck-line right fw-normal"></i>Plataforma de Administración de RH en
+                    <i class="ri-truck-line icon right fw-normal"></i>Plataforma de Administración de RH en
                     <a href="https://github.com/lmunoz8612/rh-api" target="_blank">PHP</a> y
                     <a href="https://github.com/lmunoz8612/rh" target="_blank">React JS</a>
                 </h3>
@@ -224,7 +266,7 @@
                 <!-- Talisis -->
                 <hr class="separator">
 
-                <h3><i class="ri-macbook-line right fw-normal"></i>Participación en el desarrollo de Plataforma
+                <h3><i class="ri-macbook-line icon right fw-normal"></i>Participación en el desarrollo de Plataforma
                     Educativa Online <a href="https://www.talisis.com" target="_blank">Talisis.com</a></h3>
                 <p>Plataforma Educativa Online Talisis.com</p>
                 <h3>Tecnologías utilizadas:</h3>
@@ -245,8 +287,6 @@
         </fieldset>
 
         <footer>
-            Mi CV: <a href="https://lmunoz-files.s3.us-west-1.amazonaws.com/Luis-Munoz-Fonseca.pdf" target="_blank"><i
-                    class="ri-file-pdf-2-line right"></i></a><br>
             <i class="ri-mail-line right"></i>Puedes contactarme en: <a
                 href="mailto:lvmunozf@outlook.com">lvmunozf@outlook.com</a><br>
             <i class="ri-global-line right"></i>Sitio web: <a href="https://lmunoz8612.github.io/portfolio/"
