@@ -1,64 +1,139 @@
 # 👨‍💻 Luis Vicente Muñoz Fonseca
 
-Soy desarrollador **Full Stack** con sólida experiencia en frontend y backend, especializado en el diseño e implementación de soluciones web robustas, escalables y seguras. Domino tecnologías como **React**, **Python (Django)**, **PHP**, **NestJS**, **Express.js**, **JavaScript**, así como herramientas y servicios en la nube como **AWS** y **Azure DevOps**.
+---
+
+## 🧑‍💼 Sobre mí
+
+Soy desarrollador **Full Stack** con sólida experiencia en frontend y backend, especializado en el diseño e implementación de soluciones web **robustas, escalables y seguras**.
+
+Domino tecnologías como **React**, **Python (Django)**, **PHP**, **NestJS**, **Express.js**, **JavaScript**, así como herramientas y servicios en la nube como **AWS**, **Google Firebase** y **Azure DevOps**.
+
+### Tecnologías principales
+
+- PHP  
+- JavaScript / TypeScript  
+- Node.js  
+- React  
+- Bases de datos SQL y NoSQL  
+- Microsoft Azure  
+- GitHub  
+- AWS  
+- HTML5 / CSS3  
+- Google Firebase  
 
 ---
 
-## 🧩 Proyectos Destacados
+## 💼 Proyectos destacados
 
-### 🎓 Participación en el desarrollo backend de inscripciones en Plataforma Educativa Online [UNITEC](https://www.unitec.mx/)
-Plataforma educativa moderna y escalable.
+### 🎓 Plataforma Educativa Online – UNITEC
+
+Participación en el desarrollo **backend de inscripciones** en la plataforma educativa online de  
+[UNITEC](https://www.unitec.mx/)
 
 **Tecnologías utilizadas:**
-- **Lenguajes y frameworks:** Typescript, NodeJS, expres.js
-- **Cloud y servicios GCP:** Cloud Function, Cloud Run, Firestore, BigQuery, Cloud Storage (Buckets), APIs & services
-- **Otros:** Jest Unit Testing, Arquitectura Hexagonal, Azure DevOps, Git, NoSQL, Trunk Based Development
+
+- **Lenguajes y frameworks:** TypeScript, Node.js, Express.js  
+- **Cloud (GCP):** Cloud Functions, Cloud Run, Firestore, BigQuery, Cloud Storage, APIs & Services  
+- **Otros:** Jest (Unit Testing), Arquitectura Hexagonal, Azure DevOps, Git, NoSQL, Trunk Based Development  
 
 ---
 
-### 🛒 [API de Gestión de Ventas](https://github.com/lmunoz8612/nestjs-order-management-api)
-API REST en NestJS (Typescript / TypeORM / MySQL / OpenAPI Swagger) para la gestión de venta de productos.
+### 🛒 API de Gestión de Ventas (NestJS)
+
+🔗 https://github.com/lmunoz8612/nestjs-order-management-api  
+
+API REST desarrollada en **NestJS** para la gestión de venta de productos.
+
+**Stack:**
+- TypeScript  
+- NestJS  
+- TypeORM  
+- MySQL  
+- OpenAPI (Swagger)  
+- Docker  
 
 ---
 
-### 📦 [API de Gestion de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
-API REST en Python (Django / MongoDB / OpenAPI Swagger) para la gestión de inventario en tiendas.
+### 🏪 API de Gestión de Inventario (Python)
+
+🔗 https://github.com/lmunoz8612/py-inventory-management-api  
+
+API REST desarrollada en **Python (Django)** para la gestión de inventario en tiendas.
+
+**Stack:**
+- Python  
+- Django  
+- MongoDB  
+- OpenAPI (Swagger)  
+- Docker  
 
 ---
 
-### 👥 Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
-Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de procesos de Recursos Humanos, como generación de vacantes, comunicados, eventos, organigrama, etcetera.
+### 🚚 Plataforma de Recursos Humanos (PHP + React)
+
+- Backend: https://github.com/lmunoz8612/rh-api  
+- Frontend: https://github.com/lmunoz8612/rh  
+
+Sistema de autenticación usando **tokens** y **cookies httpOnly**.  
+Gestión de procesos de **Recursos Humanos** como vacantes, comunicados, eventos, organigrama, etc.
 
 **Tecnologías utilizadas:**
+
 - **Lenguajes y frameworks:** JavaScript, PHP 8.2, ReactJS, NodeJS  
-- **Cloud:** Microsoft Azure (App Services, Blob Storage, Virtual Machines, Azure Functions – TimerTrigger, KeyVault, Entra ID)  
-- **Base de datos:** SQL Server (relacional)  
-- **Diseño:** Desarrollo web responsivo y optimizado para múltiples dispositivos
+- **Cloud:** Microsoft Azure  
+  - App Services  
+  - Blob Storage  
+  - Virtual Machines  
+  - Azure Functions (TimerTrigger)  
+  - Key Vault  
+  - Entra ID  
+- **Base de datos:** SQL Server  
+- **Diseño:** Desarrollo web responsivo y optimizado para múltiples dispositivos  
 
 **Demo:**
-- **URL:** https://rh-weld.vercel.app/login
-- **usuario:** lvmunozf@outlook.com
-- **contraseña:** password
+- **URL:** https://rh-weld.vercel.app/  
+- **Usuario:** lvmunozf@outlook.com  
+- **Contraseña:** `password`  
 
 ---
 
-### 🎓 Participación en el desarrollo de Plataforma Educativa Online [Talisis.com](https://www.talisis.com)
-Plataforma educativa moderna y escalable.
+### 💻 Plataforma Educativa Online – Talisis
+
+Participación en el desarrollo de la plataforma educativa  
+https://www.talisis.com
 
 **Tecnologías utilizadas:**
-- **Lenguajes y frameworks:** JavaScript, React, NodeJS  
-- **Cloud y servicios AWS:** AWS Lambda, Step Functions, API Gateway, DynamoDB, RDS (SQL Server), S3, SNS, SES, EC2, CodeCommit, AWS SDK, CloudWatch  
-- **Otros:** WebSockets, APIs REST, Git, LRS (Learning Record Store), Sentry (monitoreo de aplicaciones)  
-- **Diseño:** Desarrollo web responsivo y adaptable a múltiples dispositivos
+
+- **Lenguajes y frameworks:** JavaScript, React, Node.js  
+- **Cloud (AWS):**
+  - Lambda  
+  - Step Functions  
+  - API Gateway  
+  - DynamoDB  
+  - RDS (SQL Server)  
+  - S3  
+  - SNS / SES  
+  - EC2  
+  - CodeCommit  
+  - AWS SDK  
+  - CloudWatch  
+- **Otros:**
+  - WebSockets  
+  - APIs REST  
+  - Git  
+  - LRS (Learning Record Storage)  
+  - Sentry (monitoreo de aplicaciones)  
+- **Diseño:** Desarrollo web responsivo y adaptable a múltiples dispositivos  
 
 **Demo:**
-- **URL:** https://www.talisis.com/
-- **usuario:** kogodom659@burangir.com
-- **contraseña:** Talisis2025*
+- **URL:** https://www.talisis.com/  
+- **Usuario:** kogodom659@burangir.com  
+- **Contraseña:** `Talisis2025*`  
 
 ---
 
 ## 📬 Contacto
 
-📫 Email: [lvmunozf@outlook.com](mailto:lvmunozf@outlook.com)  
-🌐 GitHub: [https://github.com/lmunoz8612](https://github.com/lmunoz8612)
+- 📧 **Email:** [lvmunozf@outlook.com](mailto:lvmunozf@outlook.com)  
+- 🌐 **Portafolio:** https://lmunoz8612.github.io/portfolio/  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/luis-munoz-fonseca  
