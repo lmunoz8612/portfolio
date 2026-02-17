@@ -1,4 +1,4 @@
-# 👨‍💻 Portafolio de Luis Vicente Muñoz Fonseca
+# 👨‍💻 Luis Vicente Muñoz Fonseca
 
 Soy desarrollador **Full Stack** con sólida experiencia en frontend y backend, especializado en el diseño e implementación de soluciones web robustas, escalables y seguras. Domino tecnologías como **React**, **Python (Django)**, **PHP**, **NestJS**, **Express.js**, **JavaScript**, así como herramientas y servicios en la nube como **AWS** y **Azure DevOps**.
 
@@ -6,7 +6,7 @@ Soy desarrollador **Full Stack** con sólida experiencia en frontend y backend, 
 
 ## 🧩 Proyectos Destacados
 
-### 🎒 + 🎓 + ✍️ Participación en el desarrollo backend de inscripciones en Plataforma Educativa Online [UNITEC](https://www.unitec.mx/)
+### 🎓 Participación en el desarrollo backend de inscripciones en Plataforma Educativa Online [UNITEC](https://www.unitec.mx/)
 Plataforma educativa moderna y escalable.
 
 **Tecnologías utilizadas:**
@@ -16,17 +16,17 @@ Plataforma educativa moderna y escalable.
 
 ---
 
-### 🧾 + 🛒 + 👤 [API de Gestión de Ventas](https://github.com/lmunoz8612/nestjs-order-management-api)
+### 🛒 [API de Gestión de Ventas](https://github.com/lmunoz8612/nestjs-order-management-api)
 API REST en NestJS (Typescript / TypeORM / MySQL / OpenAPI Swagger) para la gestión de venta de productos.
 
 ---
 
-### 📦🧾📊 [API de Gestion de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
+### 📦 [API de Gestion de Inventario](https://github.com/lmunoz8612/py-inventory-management-api)
 API REST en Python (Django / MongoDB / OpenAPI Swagger) para la gestión de inventario en tiendas.
 
 ---
 
-### 👥🧑‍💼📋 Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
+### 👥 Plataforma de Administración de RH en [PHP](https://github.com/tu-usuario/login-react-php) y [React JS](https://github.com/lmunoz8612/rh-api)
 Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de procesos de Recursos Humanos, como generación de vacantes, comunicados, eventos, organigrama, etcetera.
 
 **Tecnologías utilizadas:**
@@ -42,7 +42,7 @@ Sistema de autenticación utilizando tokens y cookies httpOnly. Gestion de proce
 
 ---
 
-### 🎒 + 🎓 + ✍️ Participación en el desarrollo de Plataforma Educativa Online [Talisis.com](https://www.talisis.com)
+### 🎓 Participación en el desarrollo de Plataforma Educativa Online [Talisis.com](https://www.talisis.com)
 Plataforma educativa moderna y escalable.
 
 **Tecnologías utilizadas:**
