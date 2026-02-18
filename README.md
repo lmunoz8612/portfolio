@@ -136,4 +136,5 @@ https://www.talisis.com
 
 - 📧 **Email:** [lvmunozf@outlook.com](mailto:lvmunozf@outlook.com)  
 - 🌐 **Portafolio:** https://lmunoz8612.github.io/portfolio/  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/luis-munoz-fonseca  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/luis-munoz-fonseca
+- 📱 **Teléfono:** 81-2917-9905
