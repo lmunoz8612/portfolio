@@ -91,7 +91,7 @@ Gestión de procesos de **Recursos Humanos** como vacantes, comunicados, eventos
 - **Diseño:** Desarrollo web responsivo y optimizado para múltiples dispositivos  
 
 **Demo:**
-- **URL:** https://rh-weld.vercel.app/  
+- **URL:** https://rh-lm-hta4fvddbnbnhvax.mexicocentral-01.azurewebsites.net
 - **Usuario:** lvmunozf@outlook.com  
 - **Contraseña:** `password`  
 
