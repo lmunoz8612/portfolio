@@ -237,6 +237,35 @@
             margin-bottom: 15px;
         }
 
+        .projects-cta {
+            display: flex;
+            justify-content: center;
+            margin-top: 40px;
+        }
+
+        .btn-outline {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+
+            padding: 12px 22px;
+            border-radius: 10px;
+
+            border: 1px solid rgba(148,163,184,0.3);
+            color: #e5e7eb;
+            text-decoration: none;
+
+            background: transparent;
+            transition: all 0.3s ease;
+        }
+
+        .btn-outline:hover {
+            border-color: #7c3aed;
+            color: #fff;
+            box-shadow: 0 0 15px rgba(124,58,237,0.4);
+            transform: translateY(-2px);
+        }
+
         /* Tags */
         .tags span {
             background: #1f2937;
@@ -336,7 +365,8 @@
             <h1>Luis Vicente<br>Muñoz Fonseca</h1>
             <h2 style="color:#7c3aed;">Full Stack Developer</h2>
             <p>Desarrollador Full Stack con experiencia en soluciones web modernas y escalables.</p>
-            <a href="#projects" class="btn primary">Ver Proyectos</a> <a href="#contact" class="btn">Contactarme</a>
+            <a href="#projects" class="btn primary">Ver Proyectos</a>
+            <a href="#contact" class="btn">Contactarme</a>
             <div class="social">
                 <a href="https://github.com/" target="_blank" style="text-decoration: none;">
                     <i class="ri-github-line fontSize2"></i>
@@ -380,7 +410,7 @@
     </section>
     <section class="section">
         <h2>Tecnologías</h2>
-        <div class="tech-grid"> <!-- FRONTEND -->
+        <div class="tech-grid">
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><span>HTML5</span>
             </div>
@@ -395,7 +425,7 @@
             </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"><span>React</span>
-            </div> <!-- BACKEND -->
+            </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"><span>Node.js</span>
             </div>
@@ -410,21 +440,19 @@
             </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"><span>Django</span>
-            </div> <!-- BASE DE DATOS -->
+            </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><span>MySQL</span>
             </div>
             <div class="tech">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><span>SQL
-                    Server</span>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><span>SQL Server</span>
             </div>
             <div class="tech">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><span>SQL
-                    Server</span>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><span>SQL Server</span>
             </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"><span>MongoDB</span>
-            </div> <!-- CLOUD -->
+            </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"><span>AWS</span>
             </div>
@@ -433,7 +461,7 @@
             </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"><span>GCP</span>
-            </div> <!-- DEVOPS -->
+            </div>
             <div class="tech">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"><span>Docker</span>
             </div>
@@ -484,6 +512,12 @@
                 </div>
             </div>
         </div>
+        <div class="projects-cta">
+            <a href="https://github.com/lmunoz8612?tab=repositories" target="_blank" class="btn-outline">
+                <i class="ri-folder-line"></i> Ver todos los proyectos
+            </a>
+        </div>
+</div>
     </section>
     <section id="contact" class="section">
         <h2>Contacto</h2>
@@ -503,7 +537,7 @@
                 <h3>LinkedIn</h3>
                 <p>Ver perfil</p>
             </a>
-            <a href="https://github.com/lmunoz8612" target="_blank" class="contact-card">
+            <a href="https://github.com/lmunoz8612?tab=repositories" target="_blank" class="contact-card">
                 <div class="icon"><i class="ri-github-line fontSize2"></i></div>
                 <h3>GitHub</h3>
                 <p>Ver repositorios</p>
