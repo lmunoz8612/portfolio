@@ -1,140 +1,110 @@
-# 👨‍💻 Luis Vicente Muñoz Fonseca
+# 👨‍💻 Luis Muñoz - Full Stack Developer
+
+Desarrollador Full Stack con experiencia en la creación de aplicaciones web modernas, escalables y seguras. Especializado en frontend y backend, así como en la integración de servicios en la nube.
 
 ---
 
-## 🧑‍💼 Sobre mí
+## 🚀 Sobre mí
 
-Soy desarrollador **Full Stack** con sólida experiencia en frontend y backend, especializado en el diseño e implementación de soluciones web **robustas, escalables y seguras**.
+Soy desarrollador Full Stack con experiencia en el diseño e implementación de soluciones tecnológicas orientadas a negocio.
 
-Domino tecnologías como **React**, **Python (Django)**, **PHP**, **NestJS**, **Express.js**, **JavaScript**, así como herramientas y servicios en la nube como **AWS**, **Google Firebase** y **Azure DevOps**.
+He trabajado en:
+- Desarrollo de plataformas web escalables
+- Arquitecturas basadas en microservicios
+- Integración con servicios cloud (AWS, Azure, GCP)
 
-### Tecnologías principales
-
-- PHP  
-- JavaScript / TypeScript  
-- Node.js  
-- React  
-- Bases de datos SQL y NoSQL  
-- Microsoft Azure  
-- GitHub  
-- AWS  
-- HTML5 / CSS3  
-- Google Firebase  
+Me enfoco en:
+- 🔧 Resolución de problemas en producción  
+- ⚡ Optimización de rendimiento  
+- 🔐 Seguridad en aplicaciones  
+- 🎯 Experiencia de usuario  
 
 ---
 
-## 💼 Proyectos destacados
+## 🛠️ Tecnologías
 
-### 🎓 Plataforma Educativa Online – UNITEC
+### Frontend
+- React
+- JavaScript / TypeScript
+- HTML5 / CSS3
 
-Participación en el desarrollo **backend de inscripciones** en la plataforma educativa online de  
-[UNITEC](https://www.unitec.mx/)
+### Backend
+- Node.js
+- Express
+- PHP (Laravel / APIs)
+- Python (Django)
 
-**Tecnologías utilizadas:**
+### Bases de datos
+- MySQL
+- SQL Server
+- MongoDB
 
-- **Lenguajes y frameworks:** TypeScript, Node.js, Express.js  
-- **Cloud (GCP):** Cloud Functions, Cloud Run, Firestore, BigQuery, Cloud Storage, APIs & Services  
-- **Otros:** Jest (Unit Testing), Arquitectura Hexagonal, Azure DevOps, Git, NoSQL, Trunk Based Development  
+### Cloud & DevOps
+- AWS
+- Azure
+- Google Cloud
+- Docker
+- Firebase
+
+### Herramientas
+- Git / GitHub
+- Azure DevOps
+- Jest
 
 ---
 
-### 🛒 API de Gestión de Ventas (NestJS)
+## 📂 Proyectos Destacados
 
-🔗 https://github.com/lmunoz8612/nestjs-order-management-api  
-
-API REST desarrollada en **NestJS** para la gestión de venta de productos.
+### 🏫 Plataforma UNITEC
+Sistema de inscripciones basado en microservicios y APIs.
 
 **Stack:**
-- TypeScript  
-- NestJS  
-- TypeORM  
-- MySQL  
-- OpenAPI (Swagger)  
-- Docker  
+`Node.js` `TypeScript` `Google Cloud` `Firebase`
+
+🔗 https://www.unitec.mx/home/
 
 ---
 
-### 🏪 API de Gestión de Inventario (Python)
-
-🔗 https://github.com/lmunoz8612/py-inventory-management-api  
-
-API REST desarrollada en **Python (Django)** para la gestión de inventario en tiendas.
+### 🎓 Talisis
+Plataforma educativa con más de 35k usuarios activos mensuales.
 
 **Stack:**
-- Python  
-- Django  
-- MongoDB  
-- OpenAPI (Swagger)  
-- Docker  
+`React` `JavaScript` `Node.js` `AWS` `Serverless`
+
+🔗 https://talisis.com/
 
 ---
 
-### 🚚 Plataforma de Recursos Humanos (PHP + React)
+### 🏢 Sistema RH
+Plataforma de administración de recursos humanos.
 
-- Backend: https://github.com/lmunoz8612/rh-api  
-- Frontend: https://github.com/lmunoz8612/rh  
+**Stack:**
+`React` `PHP 8.2` `SQL Server` `Azure`
 
-Sistema de autenticación usando **tokens** y **cookies httpOnly**.  
-Gestión de procesos de **Recursos Humanos** como vacantes, comunicados, eventos, organigrama, etc.
-
-**Tecnologías utilizadas:**
-
-- **Lenguajes y frameworks:** JavaScript, PHP 8.2, ReactJS, NodeJS  
-- **Cloud:** Microsoft Azure  
-  - App Services  
-  - Blob Storage  
-  - Virtual Machines  
-  - Azure Functions (TimerTrigger)  
-  - Key Vault  
-  - Entra ID  
-- **Base de datos:** SQL Server  
-- **Diseño:** Desarrollo web responsivo y optimizado para múltiples dispositivos  
-
-**Demo:**
-- **URL:** https://rh-lm-hta4fvddbnbnhvax.mexicocentral-01.azurewebsites.net
-- **Usuario:** lvmunozf@outlook.com  
-- **Contraseña:** `password`  
+🔗 https://rh-lm-hta4fvddbnbnhvax.mexicocentral-01.azurewebsites.net/
 
 ---
 
-### 💻 Plataforma Educativa Online – Talisis
+## 📫 Contacto
 
-Participación en el desarrollo de la plataforma educativa  
-https://www.talisis.com
-
-**Tecnologías utilizadas:**
-
-- **Lenguajes y frameworks:** JavaScript, React, Node.js  
-- **Cloud (AWS):**
-  - Lambda  
-  - Step Functions  
-  - API Gateway  
-  - DynamoDB  
-  - RDS (SQL Server)  
-  - S3  
-  - SNS / SES  
-  - EC2  
-  - CodeCommit  
-  - AWS SDK  
-  - CloudWatch  
-- **Otros:**
-  - WebSockets  
-  - APIs REST  
-  - Git  
-  - LRS (Learning Record Storage)  
-  - Sentry (monitoreo de aplicaciones)  
-- **Diseño:** Desarrollo web responsivo y adaptable a múltiples dispositivos  
-
-**Demo:**
-- **URL:** https://www.talisis.com/  
-- **Usuario:** kogodom659@burangir.com  
-- **Contraseña:** `Talisis2025*`  
+- 📧 Email: lvmunozf@outlook.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/luis-munoz-fonseca  
+- 💻 GitHub: https://github.com/lmunoz8612  
+- 📱 WhatsApp: https://wa.me/528129179905  
 
 ---
 
-## 📬 Contacto
+## ⚡ Extras
 
-- 📧 **Email:** [lvmunozf@outlook.com](mailto:lvmunozf@outlook.com)  
-- 🌐 **Portafolio:** https://lmunoz8612.github.io/portfolio/  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/luis-munoz-fonseca
-- 📱 **Teléfono:** 81-2917-9905
+- Experiencia en sistemas empresariales
+- Desarrollo end-to-end
+- Enfoque en calidad de código y buenas prácticas
+- Adaptabilidad a diferentes stacks y entornos
+
+---
+
+## ⭐ Objetivo
+
+Seguir creciendo como desarrollador, participando en proyectos desafiantes que aporten valor real y permitan escalar soluciones tecnológicas.
+
+---
